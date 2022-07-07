@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -30,7 +30,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "mylib1",
+  "name": "@domosedov/my-lib-1",
   "author": "Aleksandr Grigorii",
   "module": "dist/mylib1.esm.js",
   "size-limit": [
